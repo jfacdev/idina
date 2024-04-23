@@ -1,0 +1,39 @@
+.titulo {
+
+
+	  background-color:green;
+	  color:white;
+	  text-align:left;
+	  width:19%;
+	  display:inline-block;
+
+      }
+      body {
+
+	  background-color:#F0FFFF;
+      }
+      
+
+      a {
+	  text-decoration:none;
+      }
+      
+/*h2, h3, p {
+
+    text-align: center;
+}*/
+
+      footer {
+
+
+	  text-align: right;
+	  position: relative;
+      }
+
+      li:hover {
+
+	  background-color: black;
+
+	  color:beige;
+
+      }
